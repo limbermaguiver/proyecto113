@@ -1,0 +1,57 @@
+*{
+	margin: 0
+}
+html{
+	background-color: black;
+	background-image:url(../imagenes/to.jpg); 
+	background-repeat: no-repeat; 
+	background-size: cover
+}
+
+titule{
+	color: #FF8C00;
+	font: center;
+	font-weight: bold;
+	font-size: 65px;
+	font-family: Arial Narrow;
+}
+section{
+	color: black;
+	font-family: Verdana;
+	font-weight: bold;
+}
+img{
+	width: 250px;
+	height: 250px;
+	font: lighter;
+	border-radius: 50%;
+	margin-right: 50px;
+}
+nav{
+	color: black;
+	font-family:  Lucida Bright;
+	font-weight: bold;
+}
+aseide{
+	float:left;
+}
+flooter{
+	color: black;
+	font-family:  Lucida Bright;
+	font-weight: bold;
+}
+div{
+	font: center;
+}
+.item{
+	width:350px; 
+	height: 150px;
+}
+
+h1{
+	color: #FFD700;
+	font-weight: bold;
+	font-size: 35px;
+	font-family:  Lucida Bright;
+
+}

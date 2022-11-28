@@ -1,0 +1,46 @@
+*{
+	margin: 0
+}
+html{
+	background-color: black;
+	background-image:url(../imagenes/mus.jpg); 
+	background-repeat: no-repeat; 
+	background-size: cover
+}
+titule{
+	color: #F5F5F5;
+	font-family: Times;
+	font-weight: bold;
+	font-size: 60px;
+}
+h1{
+	color:#F5F5F5;
+	font-family: Times;
+	font-weight: bold;
+}	
+p{
+	color:#FFD700;
+	font-family: Times;
+	font-weight: bold;
+	font-size: 20px;
+}
+img{
+	width: 250px;
+	height: 250px;
+	font: lighter;
+	border-radius: 50%;
+	margin-right: 50px;
+}
+aseide{
+	float: left;
+}
+.item{
+	width:350px; 
+	height: 150px;
+}
+p1{
+	color: #00FF00;
+	font-family: Times;
+	font-weight: bold;
+	font-size: 35px;
+}

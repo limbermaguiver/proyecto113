@@ -1,0 +1,59 @@
+*{
+	margin:0
+
+}
+html{
+	background-color: black;
+	background-image:url(../imagenes/dk2.jpg); 
+	background-repeat: no-repeat; 
+	background-size: cover
+}
+titule{
+	color: black;
+	font-size: 65px;
+	font-family:  Arial Narrow;
+	font-weight: bold;
+}
+p{
+	color:#F5F5F5;
+	font-family:  Arial Narrow;
+	font-weight: bold;
+	font-size: 20px;
+}
+h2{
+	color:black;
+	font-weight: bold;
+	font-size: 35px;
+}
+img{
+	width:350;
+	height:200;
+	font:center;
+	font: lighter;
+	border-radius: 50%;
+	margin-right: 50px;
+}
+footer{
+	float: right;
+}
+.item {
+	width: 400px;
+	margin:50px;
+}
+p1{
+	color: yellow;
+}
+li{
+	color: #FFFFE0;
+	font-family: Arial Narrow;
+	font-size: 35px;
+	background-color: yellow;
+	width: 560px;
+}
+a{
+	color: black;
+	font-weight: bold;
+}
+h1{
+	color: #00FA9A;
+}
